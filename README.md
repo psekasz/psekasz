@@ -10,7 +10,7 @@
 
        OS  :  macOS arm64
     Shell  :  zsh
- Terminal  :  iTerm2
+ Terminal  :  Apple_Terminal       
       CPU  :  Apple M1
 Languages  :  C, C++, Python, Bash
   Discord  :  627946009573457962
